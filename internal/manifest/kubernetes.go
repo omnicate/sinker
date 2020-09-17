@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/plexsystems/sinker/internal/docker"
+	"github.com/omnicate/sinker/internal/docker"
 
 	promv1 "github.com/coreos/prometheus-operator/pkg/apis/monitoring/v1"
 	kubeyaml "github.com/ghodss/yaml"

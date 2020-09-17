@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/plexsystems/sinker/internal/docker"
-	"github.com/plexsystems/sinker/internal/manifest"
+	"github.com/omnicate/sinker/internal/docker"
+	"github.com/omnicate/sinker/internal/manifest"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

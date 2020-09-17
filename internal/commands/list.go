@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/plexsystems/sinker/internal/manifest"
+	"github.com/omnicate/sinker/internal/manifest"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/plexsystems/sinker/internal/docker"
+	"github.com/omnicate/sinker/internal/docker"
 
 	"gopkg.in/yaml.v2"
 )

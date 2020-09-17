@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/plexsystems/sinker/internal/docker"
-	"github.com/plexsystems/sinker/internal/manifest"
+	"github.com/omnicate/sinker/internal/docker"
+	"github.com/omnicate/sinker/internal/manifest"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
