@@ -1,4 +1,4 @@
-module github.com/plexsystems/sinker
+module github.com/omnicate/sinker
 
 go 1.14
 
